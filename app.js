@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   console.log("Server is running at port " + port);
   
   fs.readFile('index.html', (err, data) => {
-      res.write("Hi " + data);
+      res.write("Hii Sh!!" + data);
       res.end();
   });
 });
