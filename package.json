@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "sopplayer": "^1.0.0"
+  }
+}
